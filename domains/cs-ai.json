@@ -2,10 +2,10 @@
   "description": "CS-AI - AI Tools Studio",
   "repo": "https://github.com/podarhacker",
   "owner": {
-    "username": "podarhacker",
+    "username": "CSV0ID",
     "email": "wadiapanel@gmail.com"
   },
-  "record": {
+  "records": {
     "CNAME": "wadia-ai.vercel.app"
   }
 }
